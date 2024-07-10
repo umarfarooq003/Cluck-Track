@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>itext.pdfua</name>
+    </assembly>
+    <members>
+        <member name="T:iText.Pdfua.Checkers.PdfUA1Checker">
+            <summary>The class defines the requirements of the PDF/UA-1 standard.</summary>
+            <remarks>
+            The class defines the requirements of the PDF/UA-1 standard.
+            <para />
+            The specification implemented by this class is ISO 14289-1
+            </remarks>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.PdfUA1Checker.#ctor(iText.Kernel.Pdf.PdfDocument)">
+            <summary>Creates PdfUA1Checker instance with PDF document which will be validated against PDF/UA-1 standard.
+                </summary>
+            <param name="pdfDocument">the document to validate</param>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.PdfUA1Checker.ValidateDocument(iText.Kernel.Utils.ValidationContext)">
+            <summary><inheritDoc/></summary>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.PdfUA1Checker.ValidateObject(System.Object,iText.Kernel.Pdf.IsoKey,iText.Kernel.Pdf.PdfResources,iText.Kernel.Pdf.PdfStream,System.Object)">
+            <summary><inheritDoc/></summary>
+        </member>
+        <member name="T:iText.Pdfua.Checkers.Utils.GraphicsCheckUtil">
+            <summary>Class that provides methods for checking PDF/UA compliance of graphics elements.</summary>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.Utils.GraphicsCheckUtil.#ctor">
+            <summary>
+            Creates a new
+            <see cref="T:iText.Pdfua.Checkers.Utils.GraphicsCheckUtil"/>
+            instance.
+            </summary>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.Utils.GraphicsCheckUtil.CheckLayoutImage(iText.Layout.Element.Image)">
+            <summary>Checks if image has alternative description or actual text.</summary>
+            <param name="image">image to check</param>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.Utils.GraphicsCheckUtil.CreateFigureTagHandler">
+            <summary>Checks if figure tag has alternative description or actual text.</summary>
+            <returns>
+            
+            <see cref="T:iText.Kernel.Pdf.Tagutils.ITagTreeIteratorHandler"/>
+            handler implementation that checks if figure tag has alternative
+            description or actual text
+            </returns>
+        </member>
+        <member name="T:iText.Pdfua.Checkers.Utils.LayoutCheckUtil">
+            <summary>Utility class for delegating the layout checks to the correct checking logic.</summary>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.Utils.LayoutCheckUtil.#ctor">
+            <summary>
+            Creates a new
+            <see cref="T:iText.Pdfua.Checkers.Utils.LayoutCheckUtil"/>
+            instance.
+            </summary>
+        </member>
+        <member name="M:iText.Pdfua.Checkers.Utils.LayoutCheckUtil.CheckLayoutElements(System.Object)">
+            <summary>Checks if a layout element is valid against the PDF/UA specification.</summary>
+            <param name="layoutElement">layout element to check</param>
+        </member>
+        <member name="T:iText.Pdfua.Exceptions.PdfUAConformanceException">
+            <summary>Exception that is thrown when the PDF Document doesn't adhere to the PDF/UA specification.</summary>
+        </member>
+        <member name="M:iText.Pdfua.Exceptions.PdfUAConformanceException.#ctor(System.String)">
+            <summary>Creates a PdfUAConformanceException.</summary>
+            <param name="message">the error message</param>
+        </member>
+        <member name="T:iText.Pdfua.Exceptions.PdfUAExceptionMessageConstants">
+            <summary>Class that bundles all the error message templates as constants.</summary>
+        </member>
+    </members>
+</doc>

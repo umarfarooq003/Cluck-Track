@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Poultry_Management_System</RootNamespace>
+    <AssemblyName>Poultry Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ActiveUp.Net.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6cceae6a4844c51b, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Dns, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=6fc67824e0089991, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Dns.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Groupware, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=db51b95d57ebfe25, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Groupware.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Imap4, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=9d424b1770e92b68, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Imap4.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Mail, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=851b9e39ef2572fb, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Mail.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Nntp, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=01416978360a49a1, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Nntp.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.OpenPGP, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=0e094b86584219e1, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.OpenPGP.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Pop3, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=962567372c07b9fe, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Pop3.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.Smtp, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=366752d00f09ae34, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.Smtp.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveUp.Net.WhoIs, Version=5.0.3454.364, Culture=neutral, PublicKeyToken=6b9afb81c1de5ed4, processorArchitecture=MSIL">
+      <HintPath>packages\MailSystem.NET.2.0.1\lib\ActiveUp.Net.WhoIs.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.25.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.25.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.Charts.WinForms, Version=1.0.9.0, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.Charts.WinForms.1.0.9\lib\net472\Guna.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.barcodes, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.barcodes.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.bouncy-castle-connector, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.bouncy-castle-connector.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.commons, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.commons.8.0.3\lib\net461\itext.commons.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfa, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfua, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.pdfua.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.sign, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.sign.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.styledxmlparser, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.styledxmlparser.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.svg, Version=8.0.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.3\lib\net461\itext.svg.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.3.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Configuration.ConfigurationManager.4.4.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Drawing.Common.8.0.3\lib\net462\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Drawing.Primitives.4.3.0\lib\net45\System.Drawing.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Mail.Abstractions, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\System.Net.Mail.Abstractions.1.1.21\lib\netstandard2.0\System.Net.Mail.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>packages\ZstdSharp.Port.0.7.1\lib\net461\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADD Expense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADD Expense.Designer.cs">
+      <DependentUpon>ADD Expense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add Poultry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Poultry.Designer.cs">
+      <DependentUpon>Add Poultry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add sales.Designer.cs">
+      <DependentUpon>Add sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add User.Designer.cs">
+      <DependentUpon>Add User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Credentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credentials.Designer.cs">
+      <DependentUpon>Credentials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeathPoultry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeathPoultry.Designer.cs">
+      <DependentUpon>DeathPoultry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del User.Designer.cs">
+      <DependentUpon>Del User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diff Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diff Form.Designer.cs">
+      <DependentUpon>Diff Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpenseCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpenseCategory.Designer.cs">
+      <DependentUpon>ExpenseCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinalReport.Designer.cs">
+      <DependentUpon>FinalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="poultryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>poultryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reset.Designer.cs">
+      <DependentUpon>Reset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesCategory.Designer.cs">
+      <DependentUpon>SalesCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sendcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sendcode.Designer.cs">
+      <DependentUpon>Sendcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show Death poultry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show Death poultry.Designer.cs">
+      <DependentUpon>Show Death poultry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show Expense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show Expense.Designer.cs">
+      <DependentUpon>Show Expense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show Sales.Designer.cs">
+      <DependentUpon>Show Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showpoultry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showpoultry.Designer.cs">
+      <DependentUpon>showpoultry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsserDashboard.Designer.cs">
+      <DependentUpon>UsserDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeForm.Designer.cs">
+      <DependentUpon>WelcomeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADD Expense.resx">
+      <DependentUpon>ADD Expense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add Poultry.resx">
+      <DependentUpon>Add Poultry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add sales.resx">
+      <DependentUpon>Add sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add User.resx">
+      <DependentUpon>Add User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credentials.resx">
+      <DependentUpon>Credentials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeathPoultry.resx">
+      <DependentUpon>DeathPoultry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del User.resx">
+      <DependentUpon>Del User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diff Form.resx">
+      <DependentUpon>Diff Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpenseCategory.resx">
+      <DependentUpon>ExpenseCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinalReport.resx">
+      <DependentUpon>FinalReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reset.resx">
+      <DependentUpon>Reset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesCategory.resx">
+      <DependentUpon>SalesCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sendcode.resx">
+      <DependentUpon>Sendcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show Death poultry.resx">
+      <DependentUpon>Show Death poultry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show Expense.resx">
+      <DependentUpon>Show Expense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show Sales.resx">
+      <DependentUpon>Show Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showpoultry.resx">
+      <DependentUpon>showpoultry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsserDashboard.resx">
+      <DependentUpon>UsserDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeForm.resx">
+      <DependentUpon>WelcomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="poultryDataSet.xsc">
+      <DependentUpon>poultryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="poultryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>poultryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="poultryDataSet.xss">
+      <DependentUpon>poultryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

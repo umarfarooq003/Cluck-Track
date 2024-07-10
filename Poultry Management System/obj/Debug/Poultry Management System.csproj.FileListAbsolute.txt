@@ -1,0 +1,431 @@
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\bin\Debug\Poultry Management System.exe.config
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\bin\Debug\Poultry Management System.exe
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\bin\Debug\Poultry Management System.pdb
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry Management System.csproj.AssemblyReference.cache
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.Add_sales.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.Dashboard.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.Form1.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.Properties.Resources.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Expense.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Sales.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry Management System.csproj.GenerateResource.cache
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry Management System.csproj.CoreCompileInputs.cache
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry Management System.exe
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry Management System.pdb
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.LOGIN_FORM.resources
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\bin\Debug\System.Drawing.Common.dll
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\bin\Debug\System.Drawing.Common.pdb
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\bin\Debug\System.Drawing.Common.xml
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry Management System.csproj.CopyComplete
+E:\Poultry Management System\VIsual Studio project\Poultry Management System\obj\Debug\Poultry_Management_System.addexpense.resources
+E:\Poultry\Poultry Management System\bin\Debug\Poultry Management System.exe.config
+E:\Poultry\Poultry Management System\bin\Debug\Poultry Management System.exe
+E:\Poultry\Poultry Management System\bin\Debug\Poultry Management System.pdb
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Common.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Dns.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Groupware.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Imap4.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Mail.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Nntp.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.OpenPGP.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Pop3.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.Smtp.dll
+E:\Poultry\Poultry Management System\bin\Debug\ActiveUp.Net.WhoIs.dll
+E:\Poultry\Poultry Management System\bin\Debug\System.Drawing.Common.dll
+E:\Poultry\Poultry Management System\bin\Debug\System.Net.Mail.Abstractions.dll
+E:\Poultry\Poultry Management System\bin\Debug\System.Drawing.Common.pdb
+E:\Poultry\Poultry Management System\bin\Debug\System.Drawing.Common.xml
+E:\Poultry\Poultry Management System\obj\Debug\Poultry Management System.csproj.AssemblyReference.cache
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.addexpense.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Add_sales.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.ChangePassword.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Dashboard.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.LOGIN_FORM.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Form1.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Properties.Resources.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Sendcode.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Expense.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Sales.resources
+E:\Poultry\Poultry Management System\obj\Debug\Poultry Management System.csproj.GenerateResource.cache
+E:\Poultry\Poultry Management System\obj\Debug\Poultry Management System.csproj.CoreCompileInputs.cache
+E:\Poultry\Poultry Management System\obj\Debug\Poultry .FE39C8D3.Up2Date
+E:\Poultry\Poultry Management System\obj\Debug\Poultry Management System.exe
+E:\Poultry\Poultry Management System\obj\Debug\Poultry Management System.pdb
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.csproj.AssemblyReference.cache
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.addexpense.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Add_sales.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.ChangePassword.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Dashboard.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.DeathPoultry.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Login.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.MainForm.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Properties.Resources.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Report.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Sendcode.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Expense.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Sales.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.csproj.GenerateResource.cache
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.csproj.CoreCompileInputs.cache
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Poultry Management System.exe.config
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Poultry Management System.exe
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Poultry Management System.pdb
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Common.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Dns.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Groupware.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Imap4.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Mail.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Nntp.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.OpenPGP.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Pop3.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Smtp.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.WhoIs.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Drawing.Common.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Net.Mail.Abstractions.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Drawing.Common.pdb
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Drawing.Common.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry .FE39C8D3.Up2Date
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.exe
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.pdb
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.ExpenseCategory.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.SalesCategory.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.barcodes.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.bouncy-castle-connector.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.commons.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.forms.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.io.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.kernel.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.layout.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfa.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfua.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.sign.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.styledxmlparser.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.svg.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itextsharp.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Newtonsoft.Json.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Buffers.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Memory.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Numerics.Vectors.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.ValueTuple.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.barcodes.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.bouncy-castle-connector.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.commons.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.forms.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.io.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.kernel.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.layout.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfa.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfua.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.sign.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.styledxmlparser.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itext.svg.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\itextsharp.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Newtonsoft.Json.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Buffers.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Memory.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Numerics.Vectors.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.ValueTuple.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Google.Protobuf.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\K4os.Hash.xxHash.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\MySql.Data.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.IO.Pipelines.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\ZstdSharp.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Google.Protobuf.pdb
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Google.Protobuf.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\K4os.Hash.xxHash.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\MySql.Data.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\System.IO.Pipelines.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Poultry Management System.exe.config
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Poultry Management System.exe
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Poultry Management System.pdb
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Common.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Dns.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Groupware.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Imap4.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Mail.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Nntp.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.OpenPGP.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Pop3.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.Smtp.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ActiveUp.Net.WhoIs.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Google.Protobuf.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.barcodes.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.bouncy-castle-connector.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.commons.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.forms.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.io.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.kernel.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.layout.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfa.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfua.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.sign.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.styledxmlparser.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.svg.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itextsharp.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\K4os.Hash.xxHash.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\MySql.Data.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Newtonsoft.Json.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Buffers.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Drawing.Common.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.IO.Pipelines.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Memory.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Net.Mail.Abstractions.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Numerics.Vectors.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.ValueTuple.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\ZstdSharp.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Google.Protobuf.pdb
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Google.Protobuf.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.barcodes.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.bouncy-castle-connector.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.commons.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.forms.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.io.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.kernel.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.layout.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfa.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.pdfua.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.sign.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.styledxmlparser.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itext.svg.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\itextsharp.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\K4os.Hash.xxHash.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\MySql.Data.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Newtonsoft.Json.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Buffers.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Drawing.Common.pdb
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Drawing.Common.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.IO.Pipelines.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Memory.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Numerics.Vectors.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\System.ValueTuple.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.csproj.AssemblyReference.cache
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.addexpense.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Add_poultry.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Add_sales.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Add_User.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.ChangePassword.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Credentials.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Dashboard.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.DeathPoultry.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Del_User.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Diff_Form.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.ExpenseCategory.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.FinalReport.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Login.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.MainForm.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Properties.Resources.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Report.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Reset.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.SalesCategory.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Sendcode.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Death_poultry.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Expense.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Sales.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.showpoultry.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.csproj.GenerateResource.cache
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.csproj.CoreCompileInputs.cache
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry .FE39C8D3.Up2Date
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.exe
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry Management System.pdb
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.UsserDashboard.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Guna.Charts.WinForms.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Guna.UI2.dll
+E:\Practice Database\Poultry Management System\Poultry Management System\bin\Debug\Guna.Charts.WinForms.xml
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.LoginForm.resources
+E:\Practice Database\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.WelcomeForm.resources
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Poultry Management System.exe.config
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Poultry Management System.exe
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Poultry Management System.pdb
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Common.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Dns.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Groupware.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Imap4.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Mail.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Nntp.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.OpenPGP.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Pop3.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.Smtp.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ActiveUp.Net.WhoIs.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.barcodes.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.commons.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.forms.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.io.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.kernel.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.layout.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.pdfa.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.pdfua.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.sign.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.svg.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Net.Mail.Abstractions.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\ZstdSharp.dll
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.barcodes.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.commons.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.forms.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.io.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.kernel.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.layout.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.pdfa.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.pdfua.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.sign.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itext.svg.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\itextsharp.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Drawing.Common.pdb
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Drawing.Common.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\Poultry Management System\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry Management System.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.addexpense.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Add_poultry.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Add_sales.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Add_User.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.ChangePassword.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Credentials.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Dashboard.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.DeathPoultry.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Del_User.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Diff_Form.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.ExpenseCategory.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.FinalReport.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Login.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.LoginForm.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.MainForm.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Properties.Resources.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Report.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Reset.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.SalesCategory.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Sendcode.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Death_poultry.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Expense.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Sales.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.showpoultry.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.UsserDashboard.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry_Management_System.WelcomeForm.resources
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry Management System.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry Management System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry Management System.csproj.CopyComplete
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry Management System.exe
+C:\Users\DELL\Desktop\Poultry Management System\obj\Debug\Poultry Management System.pdb
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Guna.Charts.WinForms.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Guna.UI2.dll
+E:\Poultry Management System\Poultry Management System\Poultry Management System\bin\Debug\Guna.Charts.WinForms.xml
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Add_poultry.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Add_User.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Credentials.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Del_User.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Diff_Form.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.FinalReport.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.LoginForm.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Reset.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.Show_Death_poultry.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.showpoultry.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.UsserDashboard.resources
+E:\Poultry Management System\Poultry Management System\Poultry Management System\obj\Debug\Poultry_Management_System.WelcomeForm.resources
